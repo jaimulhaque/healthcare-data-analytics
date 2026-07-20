@@ -29,6 +29,6 @@ An end-to-end Healthcare Data Analytics project focused on predicting hospital r
 
 ---
 
-## 📂 Project Status
+## 📂 Project status
 
-🚧 In Progress (Day 1)
+🚧 In Progress 
