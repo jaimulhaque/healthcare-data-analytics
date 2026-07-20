@@ -17,7 +17,7 @@ An end-to-end Healthcare Data Analytics project focused on predicting hospital r
 
 ## 🛠 Tech Stack
 
-- Python
+- python
 - Pandas
 - NumPy
 - SQL
