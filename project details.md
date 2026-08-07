@@ -74,3 +74,14 @@ The final optimized model was evaluated using multiple performance metrics, incl
 
 ### 💡 Project Outcome
 This project demonstrates a complete healthcare data analytics workflow, from raw clinical data to an optimized machine learning model. It highlights practical experience in data preprocessing, feature engineering, predictive modeling, model optimization, and performance evaluation using Python and Scikit-learn.
+## 👨‍💻 About the Author
+
+Hi, I'm **Jaimul Haque**, a Computer Science & Engineering student with a strong interest in **Data Analytics, Machine Learning, and Artificial Intelligence**.
+
+I enjoy building end-to-end machine learning projects that solve real-world problems using data. My goal is to continuously improve my skills in data science, predictive modeling, and AI while contributing to impactful projects.
+
+### Connect with Me
+
+- 💻 GitHub: https://github.com/jaimulhaque
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+- 📧 Email: your.email@example.com
