@@ -83,5 +83,5 @@ I enjoy building end-to-end machine learning projects that solve real-world prob
 ### Connect with Me
 
 - 💻 GitHub: https://github.com/jaimulhaque
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/jaimul-haque-317b07374/
+- 📧 Email: jaimul4067@gmail.com
